@@ -1,5 +1,7 @@
 export type DurationOption = 'few_days' | 'week' | 'two_weeks' | 'month';
 
+export type PageTab = 'planner' | 'transport' | 'guide';
+
 export type TravelPace = 'relaxed' | 'balanced' | 'fast';
 
 export type BudgetTier = 'budget' | 'comfort' | 'luxury';
